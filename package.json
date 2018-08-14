@@ -1,6 +1,6 @@
 {
   "name": "tim-message-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "One package for user to get Tim's message via javascript",
   "main": "TimJs.js",
   "scripts": {
