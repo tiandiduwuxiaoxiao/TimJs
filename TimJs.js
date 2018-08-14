@@ -1,3 +1,4 @@
+'use strict'
 function TimJs(age, account) {
     this.name = 'tim';
     this.age = age || 18;
