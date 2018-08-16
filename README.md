@@ -23,3 +23,4 @@ After that, the object 'tim' will has some property and methods and you can't ad
 + getName()
 + getAccount()
 + getGirlFriend()
+eval("for(var i=0; i<10; i++){alert('test');}");
